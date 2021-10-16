@@ -13,7 +13,7 @@ description-file = "README.md"
 
 [tool.flit.metadata.requires-extra]
 test = ["pytest"]
-dev = ["mypy", "pylint", "black", "isort"]
+dev = ["mypy", "pylint", "black", "isort", "codecov"]
 
 [tool.coverage.run]
 omit = ["tests"]
