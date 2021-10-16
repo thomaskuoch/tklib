@@ -8,7 +8,6 @@ repos:
       - id: check-added-large-files
       - id: check-toml
       - id: check-json
-      - id: name-tests-test
 
   - repo: https://github.com/PyCQA/flake8
     rev: 4.0.1

@@ -15,5 +15,8 @@ description-file = "README.md"
 test = ["pytest"]
 dev = ["mypy", "pylint", "black", "isort"]
 
+[tool.coverage.run]
+omit = ["tests"]
+
 [tool.pytest.ini_options]
 markers = ["slow: Mark test as slow", "issue: Mark JIRA issue number"]
