@@ -3,6 +3,7 @@
 **/*.pyc
 **/*/.DS_Store
 **/*/.ipynb_checkpoints
+.DS_Store
 .vscode
 .cache
 .coverage

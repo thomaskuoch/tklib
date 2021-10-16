@@ -2,6 +2,8 @@
 
 Everything I have learnt
 
+[![Test](https://github.com/thomaskuoch/tklib/actions/workflows/test.yml/badge.svg)](https://github.com/thomaskuoch/tklib/actions/workflows/test.yml)
+
 # Installation
 
 ## Dev
